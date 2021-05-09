@@ -1,32 +1,56 @@
 [
   {
-    "id": 1,
-    "name": "Feature flag",
-    "description": "This an lib to show onsite popup",
-    "url": "https://lytics.github.io/pathforadocs/"
+    "id": 8,
+    "name": "Kubectl - Cheat Sheet",
+    "description": "Kubectl - Cheat Sheet",
+    "tag": "Devops",
+    "url": "https://kubernetes.io/vi/docs/reference/kubectl/cheatsheet/"
   },
   {
-    "id": 2,
-    "name": "PM Stack",
-    "description": "This an lib to show onsite popup",
-    "url": "https://lytics.github.io/pathforadocs/"
+    "id": 7,
+    "name": "featureflags.io",
+    "description": "This an lib to support implement feature flag",
+    "tag": "Feature flag",
+    "url": "https://featureflags.io/javascript-feature-flags/"
   },
   {
-    "id": 3,
-    "name": "Shared host",
-    "description": "This an lib to show onsite popup",
-    "url": "https://lytics.github.io/pathforadocs/"
+    "id": 6,
+    "name": "feature-flags-in-react",
+    "description": "This an lib to support implement feature flag",
+    "tag": "Feature flag",
+    "url": "https://www.webtips.dev/feature-flags-in-react"
+  },
+  
+  
+  {
+    "id": 5,
+    "name": "Performance Checklist",
+    "description": "Some checklist to check performance",
+    "url": "https://github.com/flowforfrank/performance-checklist"
   },
   {
     "id": 4,
-    "name": "Studio",
-    "description": "This an lib to show onsite popup",
-    "url": "https://lytics.github.io/pathforadocs/"
+    "name": "URL - PARSE",
+    "description": "This an lib to support handle some case on URL",
+    "url": "https://github.com/unshiftio/url-parse"
   },
   {
-    "id": 5,
-    "name": "Pathfora",
-    "description": "This an lib to show onsite popup",
-    "url": "https://lytics.github.io/pathforadocs/"
+    "id": 3,
+    "name": "Code coverage",
+    "description": "Tool coverage code",
+    "url": "https://about.codecov.io/"
+  },
+  {
+    "id": 2,
+    "name": "I18n",
+    "description": "Multilanguage support",
+    "url": "https://www.i18next.com/overview/configuration-options"
+  },
+  {
+    "id": 1,
+    "name": "Flagsmith API",
+    "description": "This an lib to support implement feature flag",
+    "tag": "Feature flag",
+    "url": "https://github.com/Flagsmith/flagsmith-api"
   }
 ]
