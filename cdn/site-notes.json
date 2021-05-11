@@ -1,5 +1,13 @@
 [
   {
+    "id": 9,
+    "name": "Syncfusion React UI Components demos",
+    "description": "Syncfusion React UI Components demos",
+    "tag": "UI",
+    "url": "https://ej2.syncfusion.com/home/react.html"
+  },
+  
+  {
     "id": 8,
     "name": "Kubectl - Cheat Sheet",
     "description": "Kubectl - Cheat Sheet",
