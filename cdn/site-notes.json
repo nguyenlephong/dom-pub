@@ -1,5 +1,12 @@
 [
   {
+    "id": 16,
+    "name": "Thinking for Programmers",
+    "description": "Nice reminder to look at solving problems first rather than sinking in code.",
+    "tag": "Technology",
+    "url": "https://channel9.msdn.com/Events/Build/2014/3-642"
+  },
+  {
     "id": 15,
     "name": "Apps Script",
     "description": "Explore a playlist of guided codelab tutorials that teach you the basics of Apps Script with Google Sheets.",
