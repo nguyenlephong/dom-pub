@@ -1,5 +1,12 @@
 [
   {
+    "id": 20,
+    "name": "Build Full-Stack Javascript Apps with Meteor",
+    "description": "Meteor is an open source framework for seamlessly building and deploying Web, Mobile, and Desktop applications in Javascript.",
+    "tag": "Technology",
+    "url": "https://www.meteor.com/"
+  },
+  {
     "id": 19,
     "name": "RemNote",
     "description": "Notes some thing",
