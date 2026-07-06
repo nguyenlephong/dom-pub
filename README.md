@@ -13,10 +13,10 @@ The `icdn/` namespace is used as the static image CDN for
 - `icdn/og/blogs/{post-slug}.jpg`
 - `icdn/og/notes/{note-slug}.jpg`
 
-The site consumes these through jsDelivr:
+The site consumes these through GitHub Pages:
 
 ```text
-https://cdn.jsdelivr.net/gh/nguyenlephong/dom-pub@main/icdn/...
+https://nguyenlephong.github.io/dom-pub/icdn/...
 ```
 
 Keep paths stable and semantic. Prefer adding new versioned/semantic filenames
