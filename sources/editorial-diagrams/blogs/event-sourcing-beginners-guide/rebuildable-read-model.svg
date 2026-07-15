@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="960" viewBox="0 0 1440 960" role="img" aria-labelledby="title desc">
+  <title id="title">Projection is disposable</title><desc id="desc">The event stream can rebuild a read model</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f3f1fa"/><stop offset="1" stop-color="#ffffff"/></linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M 48 0 L 0 0 0 48" fill="none" stroke="#e3dff4" stroke-width="1" opacity=".55"/></pattern>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#26233f" flood-opacity=".11"/></filter>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#6e6986"/></marker>
+    <style>
+      .headline{font:700 58px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#26233f;letter-spacing:-1px}.subtitle{font:400 25px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#6e6986}.eyebrow{font:700 14px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#5d55b8;letter-spacing:3px}.cardTitle,.nodeTitle{font:700 20px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#26233f}.cardBody{font:500 15px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#6e6986}.tiny,.pill{font:600 14px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#6e6986;letter-spacing:.5px}.pill{fill:#5d55b8}.white{fill:white}
+    </style>
+  </defs>
+  <rect width="1440" height="960" fill="url(#bg)"/><rect width="1440" height="960" fill="url(#grid)" opacity=".55"/>
+  <circle cx="1296" cy="76.8" r="172.79999999999998" fill="#e3dff4" opacity=".55"/><circle cx="57.6" cy="902.4" r="129.6" fill="#e3dff4" opacity=".38"/>
+  <text x="108" y="100.8" class="eyebrow">EDITORIAL DIAGRAM</text>
+  <text x="108" y="196.79999999999998" class="headline">Projection is disposable</text>
+  <text x="108" y="254.4" class="subtitle">The event stream can rebuild a read model</text>
+  <g><rect x="232" y="461" width="300" height="150" rx="28" fill="#fff" stroke="#e3dff4" stroke-width="3" filter="url(#shadow)"/><rect x="232" y="461" width="12" height="150" rx="6" fill="#5d55b8"/><text x="270" y="519" class="cardTitle">Event stream</text><text x="270" y="559" class="cardBody">append-only</text></g><path d="M 539 536 L 562 536" fill="none" stroke="#6e6986" stroke-width="5"  marker-end="url(#arrow)"/><g><rect x="570" y="461" width="300" height="150" rx="28" fill="#fff" stroke="#e3dff4" stroke-width="3" filter="url(#shadow)"/><rect x="570" y="461" width="12" height="150" rx="6" fill="#5d55b8"/><text x="608" y="519" class="cardTitle">Projector</text><text x="608" y="559" class="cardBody">rebuild</text></g><path d="M 877 536 L 900 536" fill="none" stroke="#6e6986" stroke-width="5"  marker-end="url(#arrow)"/><g><rect x="908" y="461" width="300" height="150" rx="28" fill="#fff" stroke="#e3dff4" stroke-width="3" filter="url(#shadow)"/><rect x="908" y="461" width="12" height="150" rx="6" fill="#d48a47"/><text x="946" y="519" class="cardTitle">Read model</text></g>
+  </svg>

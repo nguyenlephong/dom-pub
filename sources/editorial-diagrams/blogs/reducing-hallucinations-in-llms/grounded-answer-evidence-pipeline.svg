@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Make evidence travel with the answer</title><desc id="desc">Sources, retrieval and verification each close a gap</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f1f6ef"/><stop offset="1" stop-color="#ffffff"/></linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M 48 0 L 0 0 0 48" fill="none" stroke="#dcebdd" stroke-width="1" opacity=".55"/></pattern>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#24382b" flood-opacity=".11"/></filter>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#6a7b6f"/></marker>
+    <style>
+      .headline{font:700 64px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#24382b;letter-spacing:-1px}.subtitle{font:400 28px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#6a7b6f}.eyebrow{font:700 16px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#397a54;letter-spacing:3px}.cardTitle,.nodeTitle{font:700 22px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#24382b}.cardBody{font:500 17px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#6a7b6f}.tiny,.pill{font:600 16px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#6a7b6f;letter-spacing:.5px}.pill{fill:#397a54}.white{fill:white}
+    </style>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/><rect width="1600" height="900" fill="url(#grid)" opacity=".55"/>
+  <circle cx="1440" cy="72" r="192" fill="#dcebdd" opacity=".55"/><circle cx="64" cy="846" r="144" fill="#dcebdd" opacity=".38"/>
+  <text x="120" y="94.5" class="eyebrow">EDITORIAL DIAGRAM</text>
+  <text x="120" y="184.5" class="headline">Make evidence travel with the answer</text>
+  <text x="120" y="238.5" class="subtitle">Sources, retrieval and verification each close a gap</text>
+  <g><rect x="143" y="432" width="300" height="150" rx="28" fill="#fff" stroke="#dcebdd" stroke-width="3" filter="url(#shadow)"/><rect x="143" y="432" width="12" height="150" rx="6" fill="#397a54"/><text x="181" y="490" class="cardTitle">Trusted source</text></g><path d="M 450 507 L 473 507" fill="none" stroke="#6a7b6f" stroke-width="5"  marker-end="url(#arrow)"/><g><rect x="481" y="432" width="300" height="150" rx="28" fill="#fff" stroke="#dcebdd" stroke-width="3" filter="url(#shadow)"/><rect x="481" y="432" width="12" height="150" rx="6" fill="#397a54"/><text x="519" y="490" class="cardTitle">Retrieve</text></g><path d="M 788 507 L 811 507" fill="none" stroke="#6a7b6f" stroke-width="5"  marker-end="url(#arrow)"/><g><rect x="819" y="432" width="300" height="150" rx="28" fill="#fff" stroke="#dcebdd" stroke-width="3" filter="url(#shadow)"/><rect x="819" y="432" width="12" height="150" rx="6" fill="#397a54"/><text x="857" y="490" class="cardTitle">Draft</text></g><path d="M 1126 507 L 1149 507" fill="none" stroke="#6a7b6f" stroke-width="5"  marker-end="url(#arrow)"/><g><rect x="1157" y="432" width="300" height="150" rx="28" fill="#fff" stroke="#dcebdd" stroke-width="3" filter="url(#shadow)"/><rect x="1157" y="432" width="12" height="150" rx="6" fill="#cf8b3d"/><text x="1195" y="490" class="cardTitle">Verify</text></g>
+  </svg>

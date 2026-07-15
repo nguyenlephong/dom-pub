@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Leave the why behind</title><desc id="desc">A future teammate needs the decision chain</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#eef7f8"/><stop offset="1" stop-color="#ffffff"/></linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M 48 0 L 0 0 0 48" fill="none" stroke="#d6eaed" stroke-width="1" opacity=".55"/></pattern>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#15323b" flood-opacity=".11"/></filter>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#5c7480"/></marker>
+    <style>
+      .headline{font:700 64px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#15323b;letter-spacing:-1px}.subtitle{font:400 28px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#5c7480}.eyebrow{font:700 16px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#0d7a86;letter-spacing:3px}.cardTitle,.nodeTitle{font:700 22px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#15323b}.cardBody{font:500 17px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#5c7480}.tiny,.pill{font:600 16px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#5c7480;letter-spacing:.5px}.pill{fill:#0d7a86}.white{fill:white}
+    </style>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/><rect width="1600" height="900" fill="url(#grid)" opacity=".55"/>
+  <circle cx="1440" cy="72" r="192" fill="#d6eaed" opacity=".55"/><circle cx="64" cy="846" r="144" fill="#d6eaed" opacity=".38"/>
+  <text x="120" y="94.5" class="eyebrow">EDITORIAL DIAGRAM</text>
+  <text x="120" y="184.5" class="headline">Leave the why behind</text>
+  <text x="120" y="238.5" class="subtitle">A future teammate needs the decision chain</text>
+  <g><rect x="143" y="432" width="300" height="150" rx="28" fill="#fff" stroke="#d6eaed" stroke-width="3" filter="url(#shadow)"/><rect x="143" y="432" width="12" height="150" rx="6" fill="#0d7a86"/><text x="181" y="490" class="cardTitle">Context</text></g><path d="M 450 507 L 473 507" fill="none" stroke="#5c7480" stroke-width="5"  marker-end="url(#arrow)"/><g><rect x="481" y="432" width="300" height="150" rx="28" fill="#fff" stroke="#d6eaed" stroke-width="3" filter="url(#shadow)"/><rect x="481" y="432" width="12" height="150" rx="6" fill="#0d7a86"/><text x="519" y="490" class="cardTitle">Decision</text></g><path d="M 788 507 L 811 507" fill="none" stroke="#5c7480" stroke-width="5"  marker-end="url(#arrow)"/><g><rect x="819" y="432" width="300" height="150" rx="28" fill="#fff" stroke="#d6eaed" stroke-width="3" filter="url(#shadow)"/><rect x="819" y="432" width="12" height="150" rx="6" fill="#0d7a86"/><text x="857" y="490" class="cardTitle">Consequences</text></g><path d="M 1126 507 L 1149 507" fill="none" stroke="#5c7480" stroke-width="5"  marker-end="url(#arrow)"/><g><rect x="1157" y="432" width="300" height="150" rx="28" fill="#fff" stroke="#d6eaed" stroke-width="3" filter="url(#shadow)"/><rect x="1157" y="432" width="12" height="150" rx="6" fill="#e59b45"/><text x="1195" y="490" class="cardTitle">Revisit trigger</text></g>
+  </svg>

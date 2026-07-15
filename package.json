@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "commit": "sh scripts/commit.sh",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "generate:editorial-diagrams": "node scripts/generate-editorial-diagrams.mjs",
+    "test": "node scripts/verify-editorial-assets.mjs"
   },
   "repository": {
     "type": "git",
@@ -16,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/nguyenlephong/dom-pub/issues"
   },
-  "homepage": "https://github.com/nguyenlephong/dom-pub#readme"
+  "homepage": "https://github.com/nguyenlephong/dom-pub#readme",
+  "devDependencies": {
+    "sharp": "^0.33.5"
+  }
 }

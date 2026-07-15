@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Merge while the change is small</title><desc id="desc">Short branches keep integration debt visible</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f1f6ef"/><stop offset="1" stop-color="#ffffff"/></linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M 48 0 L 0 0 0 48" fill="none" stroke="#dcebdd" stroke-width="1" opacity=".55"/></pattern>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#24382b" flood-opacity=".11"/></filter>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#6a7b6f"/></marker>
+    <style>
+      .headline{font:700 64px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#24382b;letter-spacing:-1px}.subtitle{font:400 28px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#6a7b6f}.eyebrow{font:700 16px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#397a54;letter-spacing:3px}.cardTitle,.nodeTitle{font:700 22px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#24382b}.cardBody{font:500 17px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#6a7b6f}.tiny,.pill{font:600 16px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#6a7b6f;letter-spacing:.5px}.pill{fill:#397a54}.white{fill:white}
+    </style>
+  </defs>
+  <rect width="1600" height="900" fill="url(#bg)"/><rect width="1600" height="900" fill="url(#grid)" opacity=".55"/>
+  <circle cx="1440" cy="72" r="192" fill="#dcebdd" opacity=".55"/><circle cx="64" cy="846" r="144" fill="#dcebdd" opacity=".38"/>
+  <text x="120" y="94.5" class="eyebrow">EDITORIAL DIAGRAM</text>
+  <text x="120" y="184.5" class="headline">Merge while the change is small</text>
+  <text x="120" y="238.5" class="subtitle">Short branches keep integration debt visible</text>
+  <line x1="192" y1="603" x2="1408" y2="603" stroke="#397a54" stroke-width="18" stroke-linecap="round"/><path d="M 352 603 C 288 486.00000000000006, 224.00000000000003 423, 160 378" fill="none" stroke="#6a7b6f" stroke-width="10" stroke-linecap="round"/><circle cx="160" cy="378" r="18" fill="#397a54"/><text x="160" y="315" text-anchor="middle" class="tiny">small merge</text><path d="M 672 603 C 608 486.00000000000006, 544 423, 480 378" fill="none" stroke="#cf8b3d" stroke-width="10" stroke-linecap="round"/><circle cx="480" cy="378" r="18" fill="#cf8b3d"/><text x="480" y="315" text-anchor="middle" class="tiny">small merge</text><path d="M 992 603 C 927.9999999999999 486.00000000000006, 864 423, 800 378" fill="none" stroke="#6a7b6f" stroke-width="10" stroke-linecap="round"/><circle cx="800" cy="378" r="18" fill="#397a54"/><text x="800" y="315" text-anchor="middle" class="tiny">small merge</text><text x="1312" y="559" class="nodeTitle">trunk</text>
+  </svg>
