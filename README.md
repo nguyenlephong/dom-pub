@@ -21,3 +21,16 @@ https://nguyenlephong.github.io/dom-pub/icdn/...
 
 Keep paths stable and semantic. Prefer adding new versioned/semantic filenames
 over replacing existing files in place when content materially changes.
+
+## Editorial diagram sources
+
+Deterministic technical diagrams live under `sources/editorial-diagrams/` and
+are rendered to WebP with:
+
+```bash
+npm run generate:editorial-diagrams
+npm test
+```
+
+The verification step checks every generated diagram and editorial image for
+its expected format and dimensions before the assets are published.

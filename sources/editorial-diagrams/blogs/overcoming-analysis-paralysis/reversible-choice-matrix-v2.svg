@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="960" viewBox="0 0 1440 960" role="img" aria-labelledby="title desc">
+  <title id="title">Match thought to reversibility</title><desc id="desc">Run a small test when the door can reopen</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f8f3e9"/><stop offset="1" stop-color="#ffffff"/></linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M 48 0 L 0 0 0 48" fill="none" stroke="#eee2cc" stroke-width="1" opacity=".55"/></pattern>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#3d3428" flood-opacity=".11"/></filter>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#7e7365"/></marker>
+    <style>
+      .headline{font:700 58px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#3d3428;letter-spacing:-1px}.subtitle{font:400 25px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#7e7365}.eyebrow{font:700 14px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#2d7b72;letter-spacing:3px}.cardTitle,.nodeTitle{font:700 20px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#3d3428}.cardBody{font:500 15px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#7e7365}.tiny,.pill{font:600 14px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#7e7365;letter-spacing:.5px}.pill{fill:#2d7b72}.white{fill:white}
+    </style>
+  </defs>
+  <rect width="1440" height="960" fill="url(#bg)"/><rect width="1440" height="960" fill="url(#grid)" opacity=".55"/>
+  <circle cx="1296" cy="76.8" r="172.79999999999998" fill="#eee2cc" opacity=".55"/><circle cx="57.6" cy="902.4" r="129.6" fill="#eee2cc" opacity=".38"/>
+  <text x="108" y="100.8" class="eyebrow">EDITORIAL DIAGRAM</text>
+  <text x="108" y="196.79999999999998" class="headline">Match thought to reversibility</text>
+  <text x="108" y="254.4" class="subtitle">Run a small test when the door can reopen</text>
+  <rect x="316.8" y="326.40000000000003" width="878.4" height="470.4" rx="34" fill="#fff" stroke="#eee2cc" stroke-width="3" filter="url(#shadow)"/><rect x="316.8" y="561.6" width="439.2" height="235.2" fill="#eee2cc" opacity=".85"/><line x1="756" y1="326.40000000000003" x2="756" y2="796.8" stroke="#eee2cc" stroke-width="5"/><line x1="316.8" y1="561.6" x2="1195.2" y2="561.6" stroke="#eee2cc" stroke-width="5"/><circle cx="527.616" cy="674.4960000000001" r="34" fill="#c77b3d"/><text x="527.616" y="682.4960000000001" text-anchor="middle" class="tiny white">pilot</text><text x="536.4" y="298.40000000000003" text-anchor="middle" class="tiny">easy to reverse</text><text x="975.5999999999999" y="298.40000000000003" text-anchor="middle" class="tiny">hard to reverse</text><text x="278.8" y="458.1120000000001" text-anchor="end" class="tiny">low cost</text><text x="278.8" y="683.904" text-anchor="end" class="tiny">high cost</text>
+  </svg>

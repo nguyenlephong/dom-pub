@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="960" viewBox="0 0 1440 960" role="img" aria-labelledby="title desc">
+  <title id="title">Ground the answer</title><desc id="desc">RAG adds current evidence; it does not replace the model</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#f8f1f5"/><stop offset="1" stop-color="#ffffff"/></linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M 48 0 L 0 0 0 48" fill="none" stroke="#eedce6" stroke-width="1" opacity=".55"/></pattern>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feDropShadow dx="0" dy="12" stdDeviation="14" flood-color="#402839" flood-opacity=".11"/></filter>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto-start-reverse"><path d="M 0 0 L 10 5 L 0 10 z" fill="#826d7b"/></marker>
+    <style>
+      .headline{font:700 58px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#402839;letter-spacing:-1px}.subtitle{font:400 25px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#826d7b}.eyebrow{font:700 14px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#9b4f75;letter-spacing:3px}.cardTitle,.nodeTitle{font:700 20px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#402839}.cardBody{font:500 15px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#826d7b}.tiny,.pill{font:600 14px -apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;fill:#826d7b;letter-spacing:.5px}.pill{fill:#9b4f75}.white{fill:white}
+    </style>
+  </defs>
+  <rect width="1440" height="960" fill="url(#bg)"/><rect width="1440" height="960" fill="url(#grid)" opacity=".55"/>
+  <circle cx="1296" cy="76.8" r="172.79999999999998" fill="#eedce6" opacity=".55"/><circle cx="57.6" cy="902.4" r="129.6" fill="#eedce6" opacity=".38"/>
+  <text x="108" y="100.8" class="eyebrow">EDITORIAL DIAGRAM</text>
+  <text x="108" y="196.79999999999998" class="headline">Ground the answer</text>
+  <text x="108" y="254.4" class="subtitle">RAG adds current evidence; it does not replace the model</text>
+  <g><rect x="90" y="461" width="286.5" height="150" rx="28" fill="#fff" stroke="#eedce6" stroke-width="3" filter="url(#shadow)"/><rect x="90" y="461" width="12" height="150" rx="6" fill="#9b4f75"/><text x="128" y="519" class="cardTitle">Sources</text><text x="128" y="559" class="cardBody">source links</text></g><path d="M 383.5 536 L 406.5 536" fill="none" stroke="#826d7b" stroke-width="5"  marker-end="url(#arrow)"/><g><rect x="414.5" y="461" width="286.5" height="150" rx="28" fill="#fff" stroke="#eedce6" stroke-width="3" filter="url(#shadow)"/><rect x="414.5" y="461" width="12" height="150" rx="6" fill="#9b4f75"/><text x="452.5" y="519" class="cardTitle">Chunks + index</text></g><path d="M 708 536 L 731 536" fill="none" stroke="#826d7b" stroke-width="5"  marker-end="url(#arrow)"/><g><rect x="739" y="461" width="286.5" height="150" rx="28" fill="#fff" stroke="#eedce6" stroke-width="3" filter="url(#shadow)"/><rect x="739" y="461" width="12" height="150" rx="6" fill="#9b4f75"/><text x="777" y="519" class="cardTitle">Retrieve</text></g><path d="M 1032.5 536 L 1055.5 536" fill="none" stroke="#826d7b" stroke-width="5"  marker-end="url(#arrow)"/><g><rect x="1063.5" y="461" width="286.5" height="150" rx="28" fill="#fff" stroke="#eedce6" stroke-width="3" filter="url(#shadow)"/><rect x="1063.5" y="461" width="12" height="150" rx="6" fill="#d89a49"/><text x="1101.5" y="519" class="cardTitle">Answer</text></g>
+  </svg>
